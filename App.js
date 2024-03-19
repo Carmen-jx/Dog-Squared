@@ -50,6 +50,7 @@ const styles = StyleSheet.create({
     elevation: 13,
     overflow: 'hidden',
   },
+
   name: {
     color: 'white',
     fontSize: 30,
